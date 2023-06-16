@@ -47,6 +47,7 @@ java -jar build/libs/cron.jar "*/15 0 1,15 * 1-5 /usr/bin/find"
 
 ### IDE like IntelliJ
 
-Configure run like that 
+Configure runner like that 
 
+https://github.com/harisford/cron/issues/1#issue-1759993314
 
