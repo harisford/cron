@@ -49,5 +49,5 @@ java -jar build/libs/cron.jar "*/15 0 1,15 * 1-5 /usr/bin/find"
 
 Configure runner like that 
 
-https://github.com/harisford/cron/issues/1#issue-1759993314
+https://github.com/harisford/shift4/assets/10939118/341bf62a-a7de-4312-8d69-41ebfc5521fa
 
