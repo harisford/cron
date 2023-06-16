@@ -10,7 +10,7 @@
 
 ### Docker
 
-Verify that on machine working docker - execute below command 
+Docker have to be installed - execute below command 
 
 ```bash
 docker --version
