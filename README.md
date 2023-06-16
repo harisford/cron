@@ -21,7 +21,7 @@ if there is not you should install it
 2. Linux - https://docs.docker.com/desktop/install/linux-install/
 3. Windows - https://docs.docker.com/desktop/install/windows-install/
 
-or go into Local Environment point
+or go into Local Environment or IDE point
 
 Build new image 
 ```bash
